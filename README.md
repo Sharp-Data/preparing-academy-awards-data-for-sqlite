@@ -8,6 +8,9 @@ We'll work with data on Academy Award nominations, which can be downloaded here:
 
 - *Oscars.ipynb - Code in Jupyter Notebook file that cleans and exports data.*
 - *academy_awards.csv - Data on Academy Award nominations.*
-  - * **Year** - the year of the awards ceremony.*
-  - * **Category** - the category of award the nominee was nominated for.*
+  - **Year** - *The year of the awards ceremony.*
+  - **Category** - *The category of award the nominee was nominated for.*
+  - **Nominee** - *The person nominated for the award.*
+  - **Additional Info** - *This column contains additional info such as the movie the nominee participated in or character the nominee played.*
+  - **Won?** - *This column contains either YES or NO depending on if the nominee won the award.*
 
