@@ -13,4 +13,5 @@ We'll work with data on Academy Award nominations, which can be downloaded here:
   - **Nominee** - *The person nominated for the award.*
   - **Additional Info** - *This column contains additional info such as the movie the nominee participated in or character the nominee played.*
   - **Won?** - *This column contains either YES or NO depending on if the nominee won the award.*
+- *nominatinos.db - The database created by the export from the Oscars.ipynb file.*
 
